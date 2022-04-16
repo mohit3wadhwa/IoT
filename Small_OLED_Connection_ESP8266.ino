@@ -1,6 +1,6 @@
 /*********
-  Rui Santos
-  Complete project details at https://randomnerdtutorials.com  
+  Credits --> Rui Santos
+  His complete project details at https://randomnerdtutorials.com  
 *********/
 
 #include <Wire.h>
